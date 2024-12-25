@@ -1,5 +1,5 @@
-streamlit
-tensorflow
-numpy
-pandas
-sklearn
+streamlit>=1.0
+tensorflow>=2.10
+numpy>=1.20
+pandas>=1.0
+scikit-learn>=0.24
